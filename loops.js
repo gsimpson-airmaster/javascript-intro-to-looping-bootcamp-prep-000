@@ -6,3 +6,10 @@ function forLoop(array) {
   return array;
 }
 
+function whileLoop(int) {
+  while(int > 0) {
+    console.log(int);
+  }
+  return "done";
+}
+
